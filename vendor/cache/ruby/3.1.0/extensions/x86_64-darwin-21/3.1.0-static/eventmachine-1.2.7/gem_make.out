@@ -1,0 +1,16 @@
+current directory: /Users/zhibaichen/Documents/Website/zbvszorro.github.io/vendor/cache/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/Users/zhibaichen/.rubies/ruby-3.1.2/bin/ruby -I /Users/zhibaichen/.rubies/ruby-3.1.2/lib/ruby/site_ruby/3.1.0 extconf.rb
+creating Makefile
+
+current directory: /Users/zhibaichen/Documents/Website/zbvszorro.github.io/vendor/cache/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20221024-69367-ebqj3 sitelibdir\=./.gem.20221024-69367-ebqj3 clean
+
+current directory: /Users/zhibaichen/Documents/Website/zbvszorro.github.io/vendor/cache/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20221024-69367-ebqj3 sitelibdir\=./.gem.20221024-69367-ebqj3
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.bundle
+
+current directory: /Users/zhibaichen/Documents/Website/zbvszorro.github.io/vendor/cache/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20221024-69367-ebqj3 sitelibdir\=./.gem.20221024-69367-ebqj3 install
+/usr/bin/install -c -m 0755 fastfilereaderext.bundle ./.gem.20221024-69367-ebqj3
