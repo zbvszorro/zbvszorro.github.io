@@ -1,6 +1,6 @@
 ---
 title: Leetcode Note Template
-tags: TeXt, Leetcode
+tags: TeXt
 ---
 
 # 1. Clarification
